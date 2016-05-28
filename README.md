@@ -1,2 +1,2 @@
 # redditbot
-A reddit bot, made by me!
+This is my bot for reddit. There are many like it, but this one is mine.
