@@ -1,9 +1,0 @@
-backports.ssl-match-hostname==3.5.0.1
-certifi==2016.8.31
-decorator==4.0.10
-praw==3.3.0
-prawoauth2==0.3
-requests==2.11.1
-six==1.10.0
-tornado==4.2
-update-checker==0.12
